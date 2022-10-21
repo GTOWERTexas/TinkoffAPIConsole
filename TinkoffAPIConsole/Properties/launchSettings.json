@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TinkoffAPIConsole": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "TOKEN": "your token"
+      }
+    }
+  }
+}
